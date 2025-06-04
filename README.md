@@ -25,7 +25,7 @@ This system automatically detects fall incidents using video analysis, identifie
 - **Profile Management**: Secure registration and management system
 
 ## Architecture
-![image](https://github.com/user-attachments/assets/a525f794-ea20-415c-96d8-06a656ec50da)
+<img src="https://github.com/user-attachments/assets/a525f794-ea20-415c-96d8-06a656ec50da" alt="Architecture" width="500"/>
 
 ## Technology Stack
 
