@@ -24,6 +24,9 @@ This system automatically detects fall incidents using video analysis, identifie
 - **User-friendly Interface**: Streamlit-based web application
 - **Profile Management**: Secure registration and management system
 
+## Architecture
+![image](https://github.com/user-attachments/assets/a525f794-ea20-415c-96d8-06a656ec50da)
+
 ## Technology Stack
 
 - **Computer Vision**: OpenCV, YOLOv8
