@@ -6,6 +6,8 @@ An AI-powered fall detection system that combines computer vision, deep learning
 
 This system automatically detects fall incidents using video analysis, identifies the person involved through facial recognition, and sends immediate SMS alerts to emergency contacts. It's designed for homes, eldercare centers, and healthcare institutions to enhance safety monitoring.
 
+![image](https://github.com/user-attachments/assets/e70f9a00-864e-4dbb-b775-4faf3de1f23f)
+
 ## Two Main Points:
 
 1) **Intelligent Fall Detection with Dual Classification:** The system uses YOLOv8 object detection combined with Farneback optical flow analysis to detect falls in real-time. It employs a dual-threshold approach to classify incidents as "Normal Fall" or "Suspicious Fall" based on confidence scores (>0.85) and motion dynamics, significantly reducing false positives while ensuring high accuracy.
