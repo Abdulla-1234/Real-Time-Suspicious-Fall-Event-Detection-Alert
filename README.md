@@ -8,9 +8,9 @@ This system automatically detects fall incidents using video analysis, identifie
 
 ## Two Main Points:
 
-1) Intelligent Fall Detection with Dual Classification: The system uses YOLOv8 object detection combined with Farneback optical flow analysis to detect falls in real-time. It employs a dual-threshold approach to classify incidents as "Normal Fall" or "Suspicious Fall" based on confidence scores (>0.85) and motion dynamics, significantly reducing false positives while ensuring high accuracy.
+1) **Intelligent Fall Detection with Dual Classification:** The system uses YOLOv8 object detection combined with Farneback optical flow analysis to detect falls in real-time. It employs a dual-threshold approach to classify incidents as "Normal Fall" or "Suspicious Fall" based on confidence scores (>0.85) and motion dynamics, significantly reducing false positives while ensuring high accuracy.
 
-2) Personalized Emergency Response System: Upon detecting a fall, the system uses DeepFace facial recognition to identify the individual (cosine similarity >0.7) and automatically sends personalized SMS alerts via Twilio API to registered emergency contacts. This creates a complete end-to-end solution from detection to immediate caregiver notification.
+2) **Personalized Emergency Response System:** Upon detecting a fall, the system uses DeepFace facial recognition to identify the individual (cosine similarity >0.7) and automatically sends personalized SMS alerts via Twilio API to registered emergency contacts. This creates a complete end-to-end solution from detection to immediate caregiver notification.
 
 ## Key Features
 
