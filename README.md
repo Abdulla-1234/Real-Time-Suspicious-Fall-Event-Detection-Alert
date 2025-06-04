@@ -25,7 +25,7 @@ This system automatically detects fall incidents using video analysis, identifie
 - **Profile Management**: Secure registration and management system
 
 ## Architecture
-<img src="https://github.com/user-attachments/assets/a525f794-ea20-415c-96d8-06a656ec50da" alt="Architecture" width="500"/>
+<img src="https://github.com/user-attachments/assets/a525f794-ea20-415c-96d8-06a656ec50da" alt="Architecture" width="600"/>
 
 ## Technology Stack
 
@@ -161,22 +161,6 @@ python test.py --source 0
 - **Response Time**: <2 seconds from detection to alert
 - **False Positive Rate**: <5% with dual-threshold approach
 - **Processing Speed**: Real-time on standard hardware
-
-## Security Features
-
-- Secure profile management
-- Local data storage (profiles.json)
-- Admin authentication for system access
-- Privacy-focused facial recognition (local processing)
-
-## Future Enhancements
-
-- [ ] Cloud deployment for multi-camera support
-- [ ] Pose estimation for predictive analytics
-- [ ] IoT device integration
-- [ ] Mobile app development
-- [ ] Advanced dashboard with analytics
-- [ ] Multi-language support
 
 ## Contributing
 
